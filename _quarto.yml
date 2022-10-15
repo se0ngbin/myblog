@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "seong/bin/blog"
+  site-url: https://blog.seongbin.me
+  description: "A journey through computer science"
+  navbar: 
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/se0ngbin
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    theme: pulse
+    css: styles.css
+
+
+
