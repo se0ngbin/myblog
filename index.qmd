@@ -1,14 +1,22 @@
 ---
 title: "seong/bin/blog"
 listing:
+  id: listings
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
   sort-ui: false
   filter-ui: false
-  feed: true
+  categories: false
+  feed: false
 page-layout: full
 title-block-banner: true
 ---
+## `$ cat greetings.txt`
+
+Welcome to my blog. I will be posting some interesting and uninteresting things here, but hopefully every post will be of some value to you.
+
+
+
+## `$ ls posts`
 

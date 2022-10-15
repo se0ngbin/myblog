@@ -2,7 +2,7 @@
 title: "About"
 image: profile.jpg
 about:
-  template: jolla
+  template: solana
   links:
     - icon: twitter
       text: Twitter
@@ -12,8 +12,17 @@ about:
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/se0ngbin
 
 ---
 
-About this blog
+Hi! My name is Seongbin, and I'm currently at UCLA majoring in CS. I love exercise, dance, podcasts, and am always open to learning new things. 
+
+I'm interested in the [start up](mytraces.org) space, backend engineering, and machine learning[^1]. My goal is to establish a successful start up backed by powerful ideas and machine learning models.
+
+Check out my [website](https://seongbin.me) for a portfolio.
+
+
+
+[^1]: the [fast.ai](https://www.fast.ai) course helped me a lot on my machine learning journey; go check it out!
+
