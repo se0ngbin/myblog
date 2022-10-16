@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/gradient-descent/index.html",
       "/posts/depression-predictor/index.html",
       "/posts/cross-entropy-loss/index.html",
       "/posts/digit-classifier/index.html",
