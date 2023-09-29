@@ -9,7 +9,7 @@ date: "2022-10-15"
 ---
 Gradient Descent is a methodology to tune parameters to minimize loss functions for machine learning. If you don't know what a loss function is, you can read my article on loss functions here. 
 
-This article will how and why gradient descent works; to follow along, you should know what a gradient is (duh). If you don't, give this article a read.
+This article will how and why gradient descent works; to follow along, you should know what a gradient is (duh). If you don't, give [this](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient) article a read.
 
 # How gradient descent works
 Gradient descent can be summarized into the following steps:
@@ -41,7 +41,7 @@ This is exactly what gradient descent does. It takes small steps in the directio
 In other words, moving in the opposite direction of the gradient is equivalent to taking a step in the direction of steepest descent. This can be proven if we prove that the gradient is the direction of steepest ascent. In the following section, I will present a proof that works for any dimension; feel free to skip it if you are not interested.
 
 ### Proof: The gradient is the direction of steepest descent
-Suppose $f(x,y)$ is differentiable  at $(x,y)$, $\nabla f(x,y) \ne \vec{0}$, and $\vec{u}$ is a unit vector. The directional derivative of $f$ in the direction of $\vec{u}$ can be calculated as follows:
+Suppose $f(x,y)$ is differentiable  at $(x,y)$, $\nabla f(x,y) \ne \vec{0}$, and $\vec{u}$ is a unit vector. The [directional derivativ](https://tutorial.math.lamar.edu/classes/calciii/directionalderiv.aspx) of $f$ in the direction of $\vec{u}$ can be calculated as follows:
 $${D_{\vec u}}f\left( {x,y} \right) = \nabla f \cdot \vec{u}$$ 
 
 We can decompose the dot product into the following: 
@@ -56,7 +56,7 @@ As mentioned earlier, $\alpha$ is the learning rate, a hyperparameter that contr
 
 If the hiker takes too many steps in one direction before recalculating the gradient, he or she might continuously overshoot the lowest point. If the hiker takes too few steps, he or she might never reach the lowest point in time.
 
-![](https://www.jeremyjordan.me/content/images/2018/02/Screen-Shot-2018-02-24-at-11.47.09-AM.png)
+![](https://www.jeremyjordan.me/content/images/2018/02/Screen-Shot-2018-02-24-at-11.47.09-AM.png "Credit: https://www.jeremyjordan.me")
 
 Likewise, if the learning rate is too big, the parameters might be adjusted too much, missing the minimum of the loss function. If the learning rate is too small, the parameters will be adjusted too little, and the algorithm will take too long to converge.
 
@@ -71,16 +71,6 @@ To make the explanation easier, I will use the following notation:
 
 ### Batch Gradient Descent
 Batch gradient descent is the most straightforward way to implement gradient descent. It averages the gradient over entire (or "batches" of the) dataset: $$\theta \leftarrow \theta - \alpha \nabla_\theta J(\theta)$$
-
-Here are some pros and cons of batch gradient descent:
-
-Pros:
-- Guaranteed to converge to the global minimum (given enough time)
-- Easy to implement
-
-Cons:
-- Slow to converge
-- Requires a lot of memory
 
 
 ### Stochastic Gradient Descent
