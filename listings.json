@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/life-update/index.html",
+      "/posts/gradient-descent/index.html",
+      "/posts/depression-predictor/index.html",
+      "/posts/cross-entropy-loss/index.html",
+      "/posts/digit-classifier/index.html",
+      "/posts/arrays-vs-tensors/index.html"
+    ]
+  }
+]
