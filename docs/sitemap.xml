@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.seongbin.me/posts/cross-entropy-loss/index.html</loc>
-    <lastmod>2022-10-16T08:34:12.613Z</lastmod>
+    <loc>https://seongbin.me/posts/cross-entropy-loss/index.html</loc>
+    <lastmod>2024-11-04T05:01:03.126Z</lastmod>
   </url>
   <url>
-    <loc>https://blog.seongbin.me/posts/arrays-vs-tensors/index.html</loc>
-    <lastmod>2022-10-16T08:34:13.045Z</lastmod>
+    <loc>https://seongbin.me/posts/arrays-vs-tensors/index.html</loc>
+    <lastmod>2024-11-04T05:01:04.960Z</lastmod>
   </url>
   <url>
-    <loc>https://blog.seongbin.me/posts/depression-predictor/index.html</loc>
-    <lastmod>2022-10-16T08:34:13.597Z</lastmod>
+    <loc>https://seongbin.me/posts/depression-predictor/index.html</loc>
+    <lastmod>2024-11-04T05:01:05.465Z</lastmod>
   </url>
   <url>
-    <loc>https://blog.seongbin.me/posts/gradient-descent/index.html</loc>
-    <lastmod>2023-09-27T00:46:43.988Z</lastmod>
+    <loc>https://seongbin.me/posts/gradient-descent/index.html</loc>
+    <lastmod>2024-11-04T05:01:06.124Z</lastmod>
   </url>
   <url>
-    <loc>https://blog.seongbin.me/posts/digit-classifier/index.html</loc>
-    <lastmod>2022-10-16T08:34:14.835Z</lastmod>
+    <loc>https://seongbin.me/posts/digit-classifier/index.html</loc>
+    <lastmod>2024-11-04T05:01:06.649Z</lastmod>
   </url>
   <url>
-    <loc>https://blog.seongbin.me/index.html</loc>
-    <lastmod>2023-09-27T00:46:44.375Z</lastmod>
+    <loc>https://seongbin.me/index.html</loc>
+    <lastmod>2024-11-04T05:01:06.988Z</lastmod>
   </url>
   <url>
-    <loc>https://blog.seongbin.me/about.html</loc>
-    <lastmod>2023-09-27T00:46:45.492Z</lastmod>
+    <loc>https://seongbin.me/about.html</loc>
+    <lastmod>2024-11-04T05:01:07.239Z</lastmod>
   </url>
 </urlset>

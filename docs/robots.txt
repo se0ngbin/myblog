@@ -1,1 +1,1 @@
-Sitemap: https://blog.seongbin.me/sitemap.xml
+Sitemap: https://seongbin.me/sitemap.xml

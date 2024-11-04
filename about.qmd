@@ -16,18 +16,6 @@ about:
 
 ---
 
-Hi! My name is Seongbin, and I'm currently at UCLA majoring in CS. I love exercise, dance, podcasts, and am always open to learning new things. 
+Hi! My name is Seongbin, and I'm a recent graduate from UCLA with a degree in computer science. I love exercise, dance, podcasts, and am always open to learning new things.
 
-I'm interested in the start up space, backend/database engineering, and machine learning[^1]. My ultimate goal is to establish a successful start up backed by powerful ideas and machine learning, but for now, I just want to grow as an engineer.
-
-Check out my [website](https://seongbin.me) for a portfolio.
-
-<!-- Email -->
-
-I looked at a several papers about using generative approaches to alter facial images to preserve privacy. One paper altered the images so that the images remain useful (maintain attributes), but no person or algorithm could determine the identity of the pictured individual. There were 3 more papers that I found that preserved privacy by altering the images in a way that facial recognition algorithms could not recognize the individual, even though the identities were still somewhat identifiable to humans. DiffProtect uses diffusion to do this (like DiffPure uses diffusion to perturb + purify).
-
-
-
-
-[^1]: the [fast.ai](https://www.fast.ai) course helped me a lot on my machine learning journey; go check it out!
-
+I'm currently doing machine learning research, specifically around security and privacy issues in artifical intelligence. My ultimate goal is to become a top expert in this field and establish a successful business developing safeguards around machine learning systems. Or be a dancer. Or both.

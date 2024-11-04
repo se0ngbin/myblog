@@ -4,8 +4,8 @@ project:
 
 website:
   title: "seong/bin/blog"
-  site-url: https://blog.seongbin.me
-  description: "A journey through computer science"
+  site-url: https://seongbin.me
+  description: "My journey to become a cool grandma"
   navbar: 
     right:
       - about.qmd
