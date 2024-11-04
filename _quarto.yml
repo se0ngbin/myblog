@@ -15,7 +15,7 @@ website:
         href: https://linkedin.com/seongbeanie
 format:
   html:
-    theme: pulse
+    theme: morph
     css: styles.css
 
 
