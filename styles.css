@@ -1,1 +1,8 @@
 /* css styles */
+
+/* Custom navbar icon for Google Scholar using academicons */
+a[href*="scholar.google.com"]::before {
+  font-family: 'Academicons';
+  content: "\e9d4";
+  font-size: 1em;
+}
