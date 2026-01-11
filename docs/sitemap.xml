@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.seongbin.me/posts/cross-entropy-loss/index.html</loc>
-    <lastmod>2024-11-04T06:09:23.415Z</lastmod>
+    <lastmod>2026-01-11T07:17:45.520Z</lastmod>
   </url>
   <url>
     <loc>https://blog.seongbin.me/posts/arrays-vs-tensors/index.html</loc>
-    <lastmod>2024-11-04T06:09:23.946Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.seongbin.me/posts/life-update/index.html</loc>
-    <lastmod>2024-11-04T06:09:24.474Z</lastmod>
+    <lastmod>2026-01-11T07:17:45.801Z</lastmod>
   </url>
   <url>
     <loc>https://blog.seongbin.me/posts/depression-predictor/index.html</loc>
-    <lastmod>2024-11-04T06:09:25.061Z</lastmod>
+    <lastmod>2026-01-11T07:17:46.129Z</lastmod>
   </url>
   <url>
     <loc>https://blog.seongbin.me/posts/gradient-descent/index.html</loc>
-    <lastmod>2024-11-04T06:09:25.619Z</lastmod>
+    <lastmod>2026-01-11T07:17:46.604Z</lastmod>
   </url>
   <url>
     <loc>https://blog.seongbin.me/posts/digit-classifier/index.html</loc>
-    <lastmod>2024-11-04T06:09:26.192Z</lastmod>
+    <lastmod>2026-01-11T07:17:46.975Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.seongbin.me/how-to-publish.html</loc>
+    <lastmod>2026-01-11T07:17:47.177Z</lastmod>
   </url>
   <url>
     <loc>https://blog.seongbin.me/index.html</loc>
-    <lastmod>2024-11-04T06:09:26.734Z</lastmod>
+    <lastmod>2026-01-11T07:18:25.815Z</lastmod>
   </url>
   <url>
     <loc>https://blog.seongbin.me/about.html</loc>
-    <lastmod>2024-11-04T06:09:27.044Z</lastmod>
+    <lastmod>2026-01-11T07:17:47.673Z</lastmod>
   </url>
 </urlset>

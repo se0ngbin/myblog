@@ -8,15 +8,20 @@ website:
   description: "My journey to become a cool grandma"
   navbar: 
     right:
-      - about.qmd
+      - text: Home
+        href: https://seongbin.me
       - icon: github
         href: https://github.com/se0ngbin
       - icon: linkedin
-        href: https://linkedin.com/seongbeanie
+        href: "https://linkedin.com/seongbeanie"
+      - icon: "{{<ai google-scholar>}}"
+        href: https://scholar.google.com/citations?user=P2nTstoAAAAJ
 format:
   html:
     theme: morph
-    css: styles.css
+    css: 
+      - styles.css
+      - _extensions/schochastics/academicons/assets/css/all.css
 
 
 
